@@ -724,7 +724,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "0.0.0",
+    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\juanpablo_cruzmaseda\\source\\repos\\FunK\\FunK\\FunK.csproj",
       "projectName": "FunK",
@@ -737,6 +737,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+        "C:\\Users\\juanpablo_cruzmaseda\\source\\repos\\FunK\\NuGet.Config",
         "C:\\Users\\juanpablo_cruzmaseda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -745,10 +746,7 @@
         "netstandard2.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/sgs-dev-artifacts-feed/SGS-SWA-CoE-Feed/_packaging/SGS-SWA-CoE-Feed/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/sgs-swacoe-projects/_packaging/sgs-swacoe-projects/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/sgsglobaldev/_packaging/SGS_Framework/nuget/v3/index.json": {}
+        "https://nuget.pkg.github.com/juanpablocruz/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {

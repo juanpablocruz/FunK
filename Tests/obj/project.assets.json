@@ -2281,7 +2281,7 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "FunK/0.0.0": {
+      "FunK/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -7459,7 +7459,7 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "FunK/0.0.0": {
+    "FunK/1.0.0": {
       "type": "project",
       "path": "../FunK/FunK.csproj",
       "msbuildProject": "../FunK/FunK.csproj"
@@ -7468,7 +7468,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "FsCheck.Xunit >= 2.14.3",
-      "FunK >= 0.0.0",
+      "FunK >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "Moq >= 4.14.7",
       "coverlet.collector >= 1.0.1",
@@ -7495,6 +7495,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+        "C:\\Users\\juanpablo_cruzmaseda\\source\\repos\\FunK\\NuGet.Config",
         "C:\\Users\\juanpablo_cruzmaseda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -7503,10 +7504,7 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/sgs-dev-artifacts-feed/SGS-SWA-CoE-Feed/_packaging/SGS-SWA-CoE-Feed/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/sgs-swacoe-projects/_packaging/sgs-swacoe-projects/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/sgsglobaldev/_packaging/SGS_Framework/nuget/v3/index.json": {}
+        "https://nuget.pkg.github.com/juanpablocruz/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

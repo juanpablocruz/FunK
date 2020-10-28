@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FunK</id>
+    <version>0.0.0</version>
+    <authors>Juan Pablo Cruz Maseda</authors>
+    <owners>Juan Pablo Cruz Maseda</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>funKlogo.png</icon>
+    <description>Functional constructs for c#</description>
+    <tags>Functional Programming, C#, SWA CoE</tags>
+    <repository url="https://github.com/juanpablocruz/FunK" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Collections.Immutable" version="1.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reactive.Linq" version="4.2.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.Tasks.Dataflow" version="4.11.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\bin\Release\netstandard2.0\FunK.dll" target="lib\netstandard2.0\FunK.dll" />
+    <file src="C:\Users\juanpablo_cruzmaseda\source\repos\FunK\funKlogo.png" target="funKlogo.png" />
+  </files>
+</package>
