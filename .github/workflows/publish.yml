@@ -1,6 +1,3 @@
-- name: Publish NuGet
-  uses: brandedoutcast/publish-nuget@v2.5.5
-
 name: publish to nuget
 on:
   push:
