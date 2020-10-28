@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunK", "FunK\FunK.csproj", "{4C5487F1-4C84-43AE-95F1-78B49906C1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BA2638B9-0E4A-4DA6-89EB-879E1FFD1A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5487F1-4C84-43AE-95F1-78B49906C1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5487F1-4C84-43AE-95F1-78B49906C1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5487F1-4C84-43AE-95F1-78B49906C1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5487F1-4C84-43AE-95F1-78B49906C1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2638B9-0E4A-4DA6-89EB-879E1FFD1A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2638B9-0E4A-4DA6-89EB-879E1FFD1A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2638B9-0E4A-4DA6-89EB-879E1FFD1A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2638B9-0E4A-4DA6-89EB-879E1FFD1A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BA37FA-A11E-42DD-8854-34DB28AEF9EB}
+	EndGlobalSection
+EndGlobal

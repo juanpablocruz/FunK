@@ -1,0 +1,3 @@
+C:\Users\juanpablo_cruzmaseda\source\repos\SGS-Framework-FunK\tests\UnitTests\obj\Debug\netstandard2.0\UnitTests.csprojAssemblyReference.cache
+C:\Users\juanpablo_cruzmaseda\source\repos\SGS-Framework-FunK\tests\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\juanpablo_cruzmaseda\source\repos\SGS-Framework-FunK\tests\UnitTests\obj\Debug\netstandard2.0\UnitTests.AssemblyInfo.cs

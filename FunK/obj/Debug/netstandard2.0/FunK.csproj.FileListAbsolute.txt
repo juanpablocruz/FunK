@@ -1,0 +1,8 @@
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\obj\Debug\netstandard2.0\FunK.csprojAssemblyReference.cache
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\obj\Debug\netstandard2.0\FunK.AssemblyInfoInputs.cache
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\obj\Debug\netstandard2.0\FunK.AssemblyInfo.cs
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\bin\Debug\netstandard2.0\FunK.deps.json
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\bin\Debug\netstandard2.0\FunK.dll
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\bin\Debug\netstandard2.0\FunK.pdb
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\obj\Debug\netstandard2.0\FunK.dll
+C:\Users\juanpablo_cruzmaseda\source\repos\FunK\FunK\obj\Debug\netstandard2.0\FunK.pdb
