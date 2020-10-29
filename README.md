@@ -6,6 +6,8 @@ FunK is a library for functional programming in C#. It contains most of the most
 Most of the type lifters or constructors are inside the static class F, so you need to include ```using static F``` in order to
 freely acces them.
 
+### Maybe example
+
 ```csharp
 using FunK;
 using static F;
@@ -22,6 +24,20 @@ public static class Guard
     }
 }
 
+```
+### Try example
+
+```csharp
+Try<Uri> CreateUri(string uri) => () => new Uri(uri);
+
+var uriTry = CreateUri("rubbish");
+
+Exceptional<Uri> exURI = uriTry.Run();
+
+exURI.Match(
+    Success: uri => fnWithUri(uri),
+    Exception: ex => handleUriError(ex),
+);
 ```
 
 ## Functional Monads and Functors
